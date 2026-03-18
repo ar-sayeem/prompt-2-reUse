@@ -23,11 +23,11 @@ whenever I need it — no re-explaining, no reformatting, just results.
 ```
 prompt-2-reUse/
 │
-└── leetcode-teaching-prompt/     ← Turn any LeetCode solution into a beginner-friendly teaching post
-        └── prompt.md
+├── leetcode-teaching-prompt/     ← Turn any LeetCode solution into a beginner-friendly teaching post
+│       ├── README.md             ← explains why this prompt was built
+│       └── prompt.md             ← the actual reusable prompt
+└── ...more coming
 ```
-
-> More prompts will be added over time as I build and refine them.
 
 ---
 
@@ -35,15 +35,15 @@ prompt-2-reUse/
 
 **Step 1** — Browse the folders and find the prompt you need
 
-**Step 2** — Open its `prompt.md` and copy the full prompt
+**Step 2** — Read its `README.md` to understand what it does and why it was built
 
-**Step 3** — Paste it into Claude (claude.ai)
+**Step 3** — Open `prompt.md` and copy the full prompt
 
-**Step 4** — Follow the input instructions inside the prompt
+**Step 4** — Paste it into Claude (claude.ai)
 
-**Step 5** — Get your output instantly ✅
+**Step 5** — Follow the input instructions inside the prompt
 
-> Each `prompt.md` contains its own usage instructions inside.
+**Step 6** — Get your output instantly ✅
 
 ---
 
