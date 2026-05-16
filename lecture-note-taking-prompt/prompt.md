@@ -1,4 +1,4 @@
-# 📝 edX Lecture Note-Taking Prompt
+# 📝 Lecture Note-Taking Prompt
 
 Use this prompt every time you want to generate notes from a lecture script.
 Fill in the placeholders marked with `[ ]` before sending to Claude.
@@ -21,9 +21,9 @@ Fill in the placeholders marked with `[ ]` before sending to Claude.
 Course: [Course Name]
 Module: [Module Name / Lecture Title]
 
-You are a helpful study assistant. I am a complete beginner taking an edX course
-on audit mode, and I need well-structured beginner-friendly notes from a lecture
-script I will provide.
+You are a helpful study assistant. I am a complete beginner learning from
+video lectures, and I need well-structured beginner-friendly notes from a
+lecture script I will provide.
 
 Your task:
 1. Read the lecture script carefully.
